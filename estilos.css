@@ -1,0 +1,36 @@
+/*h1 {
+    color: blue;
+}*/
+ #titulo {
+    color:aqua;
+
+ }
+
+ p.texto1 {
+    color: blueviolet;
+ }
+
+ p.texto2 {
+    color: aqua;
+ }
+
+ p.texto3{
+    color: brown;
+ }
+ h2, h3 {
+    color: aquamarine;
+ }
+ p {
+    color: rgb(177, 226, 43);
+ }
+ 
+ h1 {
+    color: #f0f ; /* Formato Hexadecimal = 3 digitos */
+ }
+ H2 {
+    color: tomato;
+ }
+
+ h3 {
+    color: rgb(177, 226, 43)
+ }
